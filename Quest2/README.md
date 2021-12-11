@@ -51,6 +51,8 @@ This is the Second Challenge of the Google Beginner Quest 2021.
   
   ![output](output.png)
   
+  Easy enough, we got our solution.
+  
 ### Output:
   The final output is all the inputs that are high, in ascending order.
   
