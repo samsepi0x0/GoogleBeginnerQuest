@@ -29,7 +29,7 @@ This is the first challenge of the Google Quest 2021.
   This process is used for all the characters in the password string. Then, each value is checked to hard coded values 
   using `and` operation and login is determined.
   
-  ![Script](code2.png)
+  ![Script](Code2.png)
   
   I created a simple python script to reverse the login process. The script declares a list of length 11 and fills it with the values mentioned in the 
   source code of the website. Then, it iterates though the whole array and subtracts the hex value `0xCafe` from each element. The difference is then
@@ -47,5 +47,4 @@ This is the first challenge of the Google Quest 2021.
   ![Flag](Flag.png)
   
   The Flag is:
-  
     `CTF{IJustHopeThisIsNotOnShodan}`
