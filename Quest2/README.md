@@ -53,7 +53,7 @@ This is the Second Challenge of the Google Beginner Quest 2021.
   
   Easy enough, we got our solution.
   
-## Output:
+## Flag:
   The final output is all the inputs that are high, in ascending order.
   
   I copied the circuit in a Logic Gate Simulator in order to check the output.
