@@ -1,6 +1,6 @@
 #  Novosibirsk - Chemical plant 
 
-This is the first challenge of the Google Quest 2021.
+This is the first challenge of the Google Beginner Quest 2021.
 
 ### Challenge Description:
   You have now investigated the chemical plant. Nothing seemed to be out of the ordinary, even though the workers acted somewhat passive,
@@ -8,7 +8,8 @@ This is the first challenge of the Google Quest 2021.
   corporation that owns the plant was informed by an anonymous source that you would arrive, and therefore they were prepared for your visit,
   but your colleague AGENT X has a lead in Moscow, we’ve already booked you a flight. FIRST CLASS of course. In fact if you look out of the
   window, you should be able to see a black car arriving now, and it will carry you to the airport.
-  Good luck!"
+  
+  "Good luck!"
   
   Website Link: [https://cctv-web.2021.ctfcompetition.com/](https://cctv-web.2021.ctfcompetition.com/)
   
