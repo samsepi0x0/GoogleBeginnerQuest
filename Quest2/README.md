@@ -2,7 +2,7 @@
 
 This is the Second Challenge of the Google Beginner Quest 2021.
 
-### Challenge Description:
+## Challenge Description:
   Well, it’s a rather gloomy and messy apartment, a faint shade is cast from the almost covered master window upon the worn wall. 
   It smells very burnt, and there's a cracked bottle in the sink that suggests some kind of experiment. Someone must have left in 
   a hurry. Thinking about it, do you want to: Look at the beautiful view of the Kremlin from the window or search the apartment 
@@ -21,7 +21,7 @@ This is the Second Challenge of the Google Beginner Quest 2021.
   
   This challenge comes under the category of `misc`.
   
-### Solution:
+## Solution:
   This challenge gives us a zip file as a downloadable part. On extracting the file, we get a folder containing an image (.png), which is a 
   picture of combination of some logic gates.
   
@@ -53,7 +53,7 @@ This is the Second Challenge of the Google Beginner Quest 2021.
   
   Easy enough, we got our solution.
   
-### Output:
+## Output:
   The final output is all the inputs that are high, in ascending order.
   
   I copied the circuit in a Logic Gate Simulator in order to check the output.
