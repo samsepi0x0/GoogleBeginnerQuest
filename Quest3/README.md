@@ -73,7 +73,7 @@ This is the third challenge of the Google Beginner CTF 2021.
   
   ![Gif](output_1.gif)
   
-  Check out the journey of the car [here]().
+  Check out the full journey of the car [here](https://raw.githubusercontent.com/samsepi0x0/GoogleBeginnerQuest/main/Quest3/full_output.mp4).
   
   Flag:
   
