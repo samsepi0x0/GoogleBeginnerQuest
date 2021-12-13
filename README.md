@@ -13,6 +13,7 @@ Try out yourself on : [https://capturetheflag.withgoogle.com/beginners-quest](ht
   |   Quest 2 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest2)|
   |   Quest 3 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest3)|
   |   Quest 4 |        |
+  |   Quest 5 |        |
 
 All the downloaded parts are mentioned in their respective folders.
 
