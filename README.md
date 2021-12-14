@@ -27,7 +27,7 @@ All the downloaded parts are mentioned in their respective folders.
   ![Quest1.png](https://github.com/samsepi0x0/GoogleBeginnerQuest/blob/main/Quest1/web.png)
   
   #### Quest 2 -  Moscow - Apartment 
-        Category: Misc
+        Category: Miscellaneous
    Well, it’s a rather gloomy and messy apartment, a faint shade is cast from the almost covered master window upon the worn wall. It smells very burnt, and there's a cracked bottle in the sink that suggests some kind of experiment. Someone must have left in a hurry. Thinking about it, do you want to: Look at the beautiful view of the Kremlin from the window or search the apartment thoroughly.
    
    ![Quest2.png](https://github.com/samsepi0x0/GoogleBeginnerQuest/blob/main/Quest2/logic-lock.png)
