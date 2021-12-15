@@ -1,7 +1,6 @@
 # Istanbul - Bazaar 
 
 This is the Fifth Challenge of the Google's Beginner Quest 2021. Do check out [Gynvael's](https://www.youtube.com/watch?v=RsfjKZsJGgo) awesome video if you want to know a more detailed video.
-It's absolutely amazing.
 
 ### Challenge Description:
   It’s a hot day, and your skin is cracking and dry. It’s difficult to make your way through the crowded bazaar. A high pitch voice pierces 
