@@ -21,7 +21,7 @@ This is the 7th challenge of Google CTF Beginners Quest 2021.
   
   ![main_code](main_code.png)
   
-  If you're not familiar with RSA Encryption check out [Wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) or this [pdf]().
+  If you're not familiar with RSA Encryption check out [Wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) or this [pdf](https://github.com/samsepi0x0/GoogleBeginnerQuest/blob/main/Quest7/paper_1_17152_649.pdf).
   Basically we are given public key, cipher text and `e`, which is used to encode the secret message(converted to long from bytes) and encoded
   using the formula:
   
