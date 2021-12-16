@@ -15,7 +15,7 @@ Try out yourself on : [https://capturetheflag.withgoogle.com/beginners-quest](ht
   |   Quest 4 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest4)|
   |   Quest 5 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest5)|
   |   Quest 6 |        |
-  |   Quest 7 |        |
+  |   Quest 7 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest7)|
   |   Quest 8 |        |
 
 All the downloaded parts are mentioned in their respective folders.
@@ -51,3 +51,9 @@ All the downloaded parts are mentioned in their respective folders.
   Gökhan is pointing at a parked vehicle. He tells you that you will have to try and reach it and that if you stay where you are, that you will get captured sooner or later. The guards know the neighborhood like their own backpocket. At first you doubt the plan, it seems like a very risky option. Gökhan then finally tells you he's not going to stay there, and his last offer is for you to go with him. 
   
 ![Quest5.png](https://raw.githubusercontent.com/samsepi0x0/GoogleBeginnerQuest/main/Quest5/main_image.png)
+
+#### Quest 7 -  Buenos Aires - Conference 
+          Category: Crypto
+  Nowak is very impressed by your skills. You and him sit down by a table, and you order lots of drinks for him. As the conversation goes on, Nowak begins to loosen up a bit and is talking about all kinds of things. Eventually he accidently reveals the location of an office complex in NYC that seems to have very much to do with the whole operation.
+  
+![Quest7.png](https://raw.githubusercontent.com/samsepi0x0/GoogleBeginnerQuest/main/Quest7/main_code.png)
