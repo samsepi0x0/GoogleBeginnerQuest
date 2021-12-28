@@ -42,7 +42,7 @@
    All these chunk types look pretty standard except `b'eDIH'`, which I was not able to find on the wikipedia page. On closer inspection, the reverse of `eDIH` is `HIDe`,
    implying that this is the chunk whose data we need to look.
    
-   ![edih.png](hide.png)
+   ![edih.png](eDIH.png)
    
    The bytes end in `=` sign, meaning the flag is Base64 encoded. So, we just need to look at the data in this chunk, append it to a string and Base64 decode it.
    
