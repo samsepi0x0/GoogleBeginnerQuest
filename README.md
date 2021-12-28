@@ -16,7 +16,9 @@ Try out yourself on : [https://capturetheflag.withgoogle.com/beginners-quest](ht
   |   Quest 5 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest5)|
   |   Quest 6 |        |
   |   Quest 7 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest7)|
-  |   Quest 8 |        |
+  |   Quest 8 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest8)|
+  |   Quest 10|        |
+  |   Quest 11|        |
 
 All the downloaded parts are mentioned in their respective folders.
 
@@ -48,12 +50,18 @@ All the downloaded parts are mentioned in their respective folders.
 
 #### Quest 5 -  Istanbul - Bazaar 
           Category: Miscellaneous
-  Gökhan is pointing at a parked vehicle. He tells you that you will have to try and reach it and that if you stay where you are, that you will get captured sooner or later. The guards know the neighborhood like their own backpocket. At first you doubt the plan, it seems like a very risky option. Gökhan then finally tells you he's not going to stay there, and his last offer is for you to go with him. 
+  It’s a hot day, and your skin is cracking and dry. It’s difficult to make your way through the crowded bazaar. A high pitch voice pierces through the soundscape from a salesman that’s trying to sell colorful fabrics and then from another corner comes delicious smells. You spot a hand waving - it’s your contact that you’ve been waiting to meet. "Take a seat, my friend, I’m Gökhan, have you been to Istanbul before? No, really? I’m sure that you will have a great time, I’ve ordered tea for the two of us. Show me the amulet, will you?. Wow, this is really something from my younger days, this is as mysterious as it is beautiful and belongs to “The cloaked brotherhood”. They are very dangerous, and eventhough your quest is urgent, I would advise you to not continue looking for the owner of this. Go home, and forget about it." In the blink of an eye, four tough guys show up, and you start to run together with Gökhan through the crowded marketplace and then up on a rooftop. The tough guys are closing in, but the two of you climb down from the rooftop, run around a corner and are able to hide in two crates.
   
 ![Quest5.png](https://raw.githubusercontent.com/samsepi0x0/GoogleBeginnerQuest/main/Quest5/main_image.png)
 
 #### Quest 7 -  Buenos Aires - Conference 
           Category: Crypto
-  Nowak is very impressed by your skills. You and him sit down by a table, and you order lots of drinks for him. As the conversation goes on, Nowak begins to loosen up a bit and is talking about all kinds of things. Eventually he accidently reveals the location of an office complex in NYC that seems to have very much to do with the whole operation.
+  You are showing the invitation so that you can enter the conference. There are hundreds of important looking people at the conference. You take a glass of champagne from a tray, and try to look important yourself. After being busy with trying to look important for a few minutes, you approach the person that you are here to get classified information from. He introduces himself as Dr. Nowak Wasilewski. Nowak asks who you are, and if you can prove your knowledge through a test that he has designed by himself.
   
 ![Quest7.png](https://raw.githubusercontent.com/samsepi0x0/GoogleBeginnerQuest/main/Quest7/main_code.png)
+
+#### Quest 8 -  Croatia - Yacht 
+          Category: Miscellaneous
+  You arrive at the location through the coordinates that you got from the assassin, a luxurious yacht. A fat, bald man lies on a puma couch. He sips on a dry martini, smokes the biggest cigar you've ever seen and when he smiles, a golden tooth is revealed. You can’t help but smile back at him, although you think the place seems shady. "Welcome to my yacht, Johnson, finally you show us your face. Have you killed the AGENT now? Good! You’re here to collect your reward I presume? I’ll have my guy finalize the transaction but before you leave I need a small favour from you." It seems that he is mistaking you for the assassin but you don’t mind.
+  
+![Quest8.png](https://raw.githubusercontent.com/samsepi0x0/GoogleBeginnerQuest/main/Quest8/cover.png)
