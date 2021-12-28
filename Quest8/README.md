@@ -15,7 +15,7 @@
   ### Solution:
    On downloading and extracting the zip, we see a PNG named `hideandseek.png`.
     
-   ![file.png](file_type.png)
+   ![file.png](file.png)
    
    Checking the file type, it is indeed a PNG and does not contain any hidden data. The image does not open when viewed in an image editor. So, it can be assumed that the 
    we might have to deal with the image data(headers and all) instead of regular steganography(the ones where pixel data is altered.)
