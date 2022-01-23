@@ -152,7 +152,7 @@ This is the sixth challenge of the Google Beginner Quest 2021.
   Using the above script, we get the proper brainfuck code.
   Now we just need to find the interpreter for brainfuck and convert the code. I found [this](https://www.tutorialspoint.com/execute_brainfk_online.php) one quite authentic.
   
-### Output:
+### Flag:
   On interpreting the brainfuck file, we get the flag.
   
   ![brainfuck.png](brainfuck.png)
