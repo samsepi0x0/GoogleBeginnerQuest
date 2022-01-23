@@ -110,7 +110,7 @@ This is the sixth challenge of the Google Beginner Quest 2021.
   This ASCII file contains the following text:
   ![nya.png](nya.png)
   
-  On confirming at [esolangs.org](esolangs.org), this is indeed a code written in `nya` language. More information on this language can be found [here](https://esolangs.org/wiki/Nya~).
+  On confirming at [esolangs.org](https://esolangs.org/), this is indeed a code written in `nya` language. More information on this language can be found [here](https://esolangs.org/wiki/Nya~).
   
   I found an interpreter of nya on github. Using that, we can convert the nya text to something understandable.
   ```bash
