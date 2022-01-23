@@ -159,6 +159,6 @@ This is the sixth challenge of the Google Beginner Quest 2021.
   
   Flag in text format:
   
-    ```
-    CTF{pl34s3_n0_m04r}
-    ```
+  	
+	CTF{pl34s3_n0_m04r}
+	
