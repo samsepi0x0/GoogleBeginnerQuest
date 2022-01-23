@@ -15,7 +15,7 @@ This is the sixth challenge of the Google Beginner Quest 2021.
   ![chall.txt](chall.png)
   Part view of `chall.txt`.
   
-  The hints provided in encodings is listed below:
+  The hints provided in `encodings` is listed below:
   ```text
         I made a super secret encoder. I remember using:
           - a weird base, much higher than base64
