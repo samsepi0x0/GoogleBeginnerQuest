@@ -54,6 +54,12 @@ All the downloaded parts are mentioned in their respective folders.
   
 ![Quest5.png](https://raw.githubusercontent.com/samsepi0x0/GoogleBeginnerQuest/main/Quest5/main_image.png)
 
+### Quest 6 -  Shenzhen - Office 
+          Category: Miscellaneous
+   You’re exiting a crowded subway nearby the office that you are about to visit. You are showing the guards your ID and answering a couple of routine questions. They are not impressed, but the gate opens up and you can enter the area despite their doubt. You are not allowed to stroll freely on the company grounds, but are shown around by a woman that stares at you with a crooked smile. At last you're able to talk to the manager, a short man with a white robe and shades: "Greetings, AGENT, You must be thirsty after your long journey? No? You don’t mind if I’ll have something for myself, do you? Good! We have heard about the device that you possess, can I have a look at it. Hmm, it seems that it is encrypted. Help me break this quickly so that we can continue with the analysis." 
+   
+![Quest6.png](https://raw.githubusercontent.com/samsepi0x0/GoogleBeginnerQuest/main/Quest6/chall.png)
+
 ### Quest 7 -  Buenos Aires - Conference 
           Category: Crypto
   You are showing the invitation so that you can enter the conference. There are hundreds of important looking people at the conference. You take a glass of champagne from a tray, and try to look important yourself. After being busy with trying to look important for a few minutes, you approach the person that you are here to get classified information from. He introduces himself as Dr. Nowak Wasilewski. Nowak asks who you are, and if you can prove your knowledge through a test that he has designed by himself.
