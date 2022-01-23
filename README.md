@@ -14,9 +14,10 @@ Try out yourself on : [https://capturetheflag.withgoogle.com/beginners-quest](ht
   |   Quest 3 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest3)|
   |   Quest 4 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest4)|
   |   Quest 5 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest5)|
-  |   Quest 6 |        |
+  |   Quest 6 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest6)|
   |   Quest 7 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest7)|
   |   Quest 8 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest8)|
+  |   Quest 9 |        |
   |   Quest 10|        |
   |   Quest 11|        |
 
