@@ -157,7 +157,7 @@ This is the sixth challenge of the Google Beginner Quest 2021.
   
   ![brainfuck.png](brainfuck.png)
   
-  #### FLAG:
+  Flag in text format:
     ```
     CTF{pl34s3_n0_m04r}
     ```
