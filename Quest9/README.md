@@ -42,7 +42,7 @@
   Here is the final flag.
   ![code2.png](code2.png)
   
-  #### FLAG(in text):
+  #### FLAG (in text):
   ```
   CTF{SB:575756}
   ```
