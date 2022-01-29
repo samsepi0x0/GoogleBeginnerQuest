@@ -17,7 +17,7 @@ Try out yourself on : [https://capturetheflag.withgoogle.com/beginners-quest](ht
   |   Quest 6 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest6)|
   |   Quest 7 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest7)|
   |   Quest 8 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest8)|
-  |   Quest 9 |        |
+  |   Quest 9 | [Link](https://github.com/samsepi0x0/GoogleBeginnerQuest/tree/main/Quest9)|
   |   Quest 10|        |
   |   Quest 11|        |
 
@@ -72,3 +72,9 @@ All the downloaded parts are mentioned in their respective folders.
   You arrive at the location through the coordinates that you got from the assassin, a luxurious yacht. A fat, bald man lies on a puma couch. He sips on a dry martini, smokes the biggest cigar you've ever seen and when he smiles, a golden tooth is revealed. You can’t help but smile back at him, although you think the place seems shady. "Welcome to my yacht, Johnson, finally you show us your face. Have you killed the AGENT now? Good! You’re here to collect your reward I presume? I’ll have my guy finalize the transaction but before you leave I need a small favour from you." It seems that he is mistaking you for the assassin but you don’t mind.
   
 ![Quest8.png](https://raw.githubusercontent.com/samsepi0x0/GoogleBeginnerQuest/main/Quest8/cover.png)
+
+### Quest 9 -  Johannesburg - Hideout 
+          Category: Reversing
+ Johannesburg is hot, and you are on your way to the secret lair. It seems like it is well fortified, even though you are expected under the alias of the assassin, perhaps it will be a better idea to sneak inside the lair, unseen? You climb up on a brick wall, and jump over it. On the other side you spot a lot of guards, quick, hide in a bush. Now you have to sneak past the guards into the main building's entrance.
+ 
+![Quest9.png](https://raw.githubusercontent.com/samsepi0x0/GoogleBeginnerQuest/main/Quest9/code2.png)
