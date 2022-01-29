@@ -29,7 +29,7 @@
   
   `gCTF.apk` is the apk that can be decompiled and reversed.
   
-  P.S. I couldn't upload the i64 file because the size is way to big for Github web to handle and I don't have the CLI right now.
+  **P.S. I couldn't upload the i64 file because the size is way to big for Github web to handle and I don't have the CLI right now.**
   
   On opening `bzImage.elf.i64` in IDA debugger (can be downloaded from [hex-rays.com](https://hex-rays.com/)), we can simply generate pseudo code by pressing
   F5 on the keyboard. On analyzing the code, we can see that gCTF:KEY is checked in the if condition and copied to a2.
